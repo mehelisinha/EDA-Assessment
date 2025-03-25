@@ -27,7 +27,9 @@ Key Findings from the Power BI Visualisation:
 - Jewellery-Women has the highest average discount with **40.17%**.
 - Westernwear-women has the highest number of product with a count of **1654 (36.22%)**.
 - Fragnance-Women as the least number of product with a count of **167 (3.66%)**.
-**Open `EDA_Report.pbix` in **Power BI Desktop** or use `EDA_Report.pdf` as an alternative to explore insights.
+
+  Open `EDA_Report.pbix` in **Power BI Desktop** or use `EDA_Report.pdf` as an alternative to explore insights.
+  
 ## Folder Structure
 - `data/` → Contains the raw and the cleaned dataset
 - `notebooks/` → Jupyter Notebook with EDA code
