@@ -1,8 +1,9 @@
 ## Exploratory Data Analysis (EDA) Assessment
 ## Overview
-This project performs an exploratory data analysis on Product_DataSet.csv using Python and visualisations are performed using PowerBI. The project includes:
+This project performs an exploratory data analysis on Product_DataSet.csv using Python and visualisations are performed using PowerBI. 
+The project includes:
 
-##**Python Analysis (Jupyter notebook):**
+**Python Analysis (Jupyter notebook):**
 Dataset loading and viewing using pandas. The dataset has 4566 rows and 11 columns.
 **Dataset overview:**
 - The dataset contains product-related features such as:
