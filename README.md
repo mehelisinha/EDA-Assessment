@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis (EDA) Assessment
-## Overview
+**Overview**
 This project performs an exploratory data analysis on Product_DataSet.csv using Python and visualisations are performed using PowerBI. 
 The project includes:
 
@@ -18,6 +18,7 @@ Dataset loading and viewing using pandas. The dataset has 4566 rows and 11 colum
     - Converting key features like MRP and SellPrice from object type to numeric.
 - Summary Statistics using .describe(): mean, median(50%), standard deviation.
 - Converting the cleaned dataframe to .csv file for further usage in PowerBI visualisation.
+  
 **Power BI visualizations:**
 Created PowerBI report in both .pdf and .pbix format with the following representations:
 - Top 10 selling brands: Used a bar chart. The chart represents that the top 10 selling brands.
@@ -31,6 +32,6 @@ Created PowerBI report in both .pdf and .pbix format with the following represen
 Open EDA_Report.pbix in Power BI Desktop or use EDA_Report.pdf as an alternative to explore insights.
 
 **Folder Structure:**
-data/ - Contains the raw and the cleaned dataset
-notebooks/ - Jupyter Notebook with EDA code
-visuals/ - Power BI reports (pbix and pdf)
+- `data/` → Contains the dataset
+- `notebooks/` → Jupyter Notebook with EDA code
+- `visuals/` → Power BI reports (pbix and pdf)
